@@ -1,5 +1,7 @@
 # Running TAO Toolkit on Google Colab
 
+Deprecation Notice: TAO via Google Colab is deprecated as of 6.0.0 and will not be supported going forward.
+
 Google Colab provides access to free GPU instances for running compute jobs
 in the cloud. This page provides instructions for getting started with TAO Toolkit on 
 Google Colab.
